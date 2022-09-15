@@ -2,7 +2,7 @@
 //  MovieCell.swift
 //  flixster
 //
-//  Created by Nareeman Bari on 9/6/22.
+//  Created by Deen Bari on 9/6/22.
 //
 
 import UIKit
